@@ -14,18 +14,22 @@ Code:<br/>
 [NYC_CitiBike_Challenge.ipynb](Challenge/NYC_CitiBike_Challenge.ipynb)
 
 Images:<br/>
-[Images](Images) <br/>
+[Images](Images/) <br/>
 
 Tableau Public:
-[link to dashboard](LINK GOES HERE)
+[NYC_Citibike](https://public.tableau.com/app/profile/franklin.t.brumwell/viz/NYC_Citibike_16266171124850/NYCCitibikeAnalysisforAugust2019?publish=yes)
 
 
 ## Results:
 
 7 visuals with 7 descriptions
-
-
-
+![Checkout_times_by_users.png](Images/Checkout_times_by_users.png)
+![checkout_times_by_gender.png](Images/checkout_times_by_gender.png)
+![Trips_by_weekday_per_hour.png](Images/Trips_by_weekday_per_hour.png)
+![Trips_by_gender_weekday_per_hour.png](Images/Trips_by_gender_weekday_per_hour.png)
+![user_trips_by_gender_by_weekday.png](Images/user_trips_by_gender_by_weekday.png)
+![August_peak_hours.png](Images/August_peak_hours.png)
+![Top_starting-locations.png](Images/Top_starting-locations.png)
 
 ## Summary
 
